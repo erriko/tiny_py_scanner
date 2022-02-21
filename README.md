@@ -1,5 +1,6 @@
 # tiny_py_scanner
-Really tiny scanner to scan your private subnet
+Really tiny scanner to scan your private subnet. It automatically discover your local IP address and checks the whole subnet.
+Can be used as a scripted security cron job.
 
 ## Requirements
 Python3 is required.
